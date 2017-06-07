@@ -1,0 +1,19 @@
+## Directories ##
+/.gradle/
+/build/
+/target/
+/.idea/
+
+## Classes ##
+*.class
+
+## Package Files ##
+*.jar
+# Not ignore gradle-wrapper
+!gradle-wrapper.jar
+
+## Hidden Files ##
+.*
+# Not ignore gitignore
+!/.gitignore
+
